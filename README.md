@@ -18,7 +18,8 @@ Before you begin, ensure you have met the following requirements:
 - NumPy library installed
 
 ### Files used
-Include the files used
+The project uses data from CSV files that contain bikeshare information for the three cities. Note: These files are large and are not tracked by this repository's .gitignore due to privacy and efficiency reasons.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+- Udacity for providing the inspiration and data sets for this project
+- The developer communities that maintain Python, Pandas, and NumPy
