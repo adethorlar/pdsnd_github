@@ -185,6 +185,7 @@ def user_stats(df):
         print('The most common year of birth is: ', most_common_year)
 
 
+    # Display time it took
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
